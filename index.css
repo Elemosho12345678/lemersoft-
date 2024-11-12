@@ -1,0 +1,286 @@
+* {
+  padding: 0px;
+  font-family: "Times New Roman", Times, serif;
+}
+.head {
+  height: 100px;
+  background-color: #0d0118;
+  display: flex;
+  gap: 300px;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 20px 0px 20px;
+}
+.logo1 {
+  width: 50px;
+  border-radius: 100%;
+}
+a {
+  display: flex;
+  text-decoration: none;
+  color: #cf89e8;
+  margin-right: 20px;
+  font-size: 25px;
+  justify-content: space-between;
+}
+.ul {
+  display: flex;
+  align-items: center;
+  color: aqua;
+  list-style-type: none;
+}
+
+a:hover {
+  color: white;
+}
+a:active {
+  color: yellowgreen;
+}
+.btn {
+  padding: 20px 30px 20px 30px;
+  border-radius: 30px;
+  background-color: aqua;
+}
+.btn:hover {
+  color: white;
+  background-color: #cf89e8;
+}
+
+.hero {
+  height: 600px;
+  background-color: #0d0118;
+  padding-top: 200px;
+  display: flex;
+  padding-left: 100px;
+}
+h1 {
+  color: #ffffff;
+  font-size: 50px;
+  /* margin-left: 200px; */
+}
+.Header {
+  justify-content: center;
+}
+.p {
+  color: black;
+  font-size: 18px;
+  /* margin-left: 200px; */
+}
+.Elemosho {
+  font-size: 50px;
+  /* margin-left: 200px; */
+}
+
+.h2 {
+  color: #cf89e8;
+  /* margin-left: 200px; */
+}
+.bnt2 {
+  padding: 20px 30px 20px 30px;
+  border-radius: 30px;
+  font-size: 20px;
+  background-color: aqua;
+  padding-left: 20px;
+  margin-left: 20px;
+  cursor: pointer;
+  transition: 180ms ease;
+}
+.bnt3 {
+  padding: 20px 20px 20px 20px;
+  border-radius: 30px;
+  font-size: 20px;
+  background-color: aqua;
+  padding-right: 20px;
+}
+
+.bnt2:hover {
+  background-color: #cf89e8;
+  color: white;
+}
+ 
+.bnt1 {
+  /* margin-left: 200px;  */
+  margin-top: 50px;
+}
+.flyer {
+  height: 450px;
+  margin-left: 400px;
+}
+.hero2 {
+  height: 700px;
+  background-color: #0d0118;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.image2 {
+  height: 50px;
+}
+.image3 {
+  height: 50px;
+}
+.image1 {
+  height: 50px;
+}
+.h22 {
+  color: #ffffff;
+  text-align: center;
+}
+
+.p {
+  color: aqua;
+  display: inline-flex;
+}
+.What {
+  color: #cf89e8;
+  text-align: center;
+  font-size: 70px;
+  padding-top: 70px;
+}
+.Learn {
+  padding: 20px 30px 20px 30px;
+  border-radius: 30px;
+  font-size: 20px;
+  background-color: aqua;
+  margin-top: 30px;
+}
+.our {
+  height: 700px;
+  background-color: #0d0118;
+  margin-top: -20px;
+  padding-left: 100px;
+  display: flex;
+  padding-top: 80px;
+}
+.ours {
+  color: #cf89e8;
+  /* justify-content: left; */
+  /* text-align: left; */
+  padding-left: 50px;
+  margin-bottom: -30px;
+  font-size: 30px;
+}
+.Lemersoft {
+  color: #ffffff;
+  font-size: 25px;
+}
+h4 {
+  font-size: 40px;
+
+  color: aqua;
+}
+.book {
+  display: flex;
+}
+.project {
+  height: 600px;
+  margin-left: 200px;
+}
+.All {
+  padding: 20px 30px 20px 30px;
+  border-radius: 30px;
+  font-size: 20px;
+  background-color: aqua;
+  margin-top: 30px;
+}
+
+.ourproject {
+  color: rgb(0, 0, 0);
+  font-size: 70px;
+  text-align: center;
+}
+.mypro {
+   
+  height: 700px;
+  margin-left: 180px;
+}
+ .FlyerDesign{
+    text-align: center;
+    color: #8400ff;
+    font-size: 35px;
+ }
+
+.my {
+  height: 300px;
+  text-align: center;
+  padding-right: 10px;
+  border-radius: 30px;
+  border-style: solid;
+  border-color: aqua;
+  border-width: 20px;
+}
+.my2 {
+  height: 300px;
+  width: 300px ;
+  text-align: center;
+  padding-right: 10px;
+  border-radius: 30px;
+  border-style: solid;
+  border-color: aqua;
+  border-width: 20px;
+}
+.more{
+    padding: 20px 30px 20px 30px;
+  border-radius: 30px;
+  font-size: 20px;
+  background-color: aqua;
+  margin-top: 50px;
+margin-left: 600px;
+
+
+}
+.scr{
+    height: 30px;    
+  }
+  .flyer3{
+    height: 700px;
+    margin-left: 100px;
+    margin-top: 100px;
+  }
+  .my3 {
+    height: 300px;
+    width: 300px ;
+    text-align: center;
+    padding-right: 10px;
+    border-radius: 30px;
+    border-style: solid;
+    border-color: #501c81;
+    border-width: 20px;
+  }
+  .Hero4{
+      height: 500px;
+      background-color: #0d0118;
+      padding-left: 50px;
+      padding-top: 50px;
+      display: flex;
+      text-align: center;
+      padding-left: 200px;
+     
+
+  }
+  .box1{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-right: 30px ;
+
+  }
+  .ima{
+    height: 100px;
+    padding-top: 50px;
+  }
+  .btnn{
+    padding: 10px 30px 10px 30px;
+    border-radius: 30px;
+    font-size: 20px;
+    background-color: aqua;
+    padding-left: 20px;
+    margin-left: 20px; 
+  }
+  .footer{
+    height: 700px;
+    background-color: black
+  }
